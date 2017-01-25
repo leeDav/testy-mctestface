@@ -1,6 +1,6 @@
-# sainsburys-test-vue
+# Totally not a test, ya'll
 
-> The Sainsbury's tech test, vue-ified!
+> The tech test, vue-ified!
 
 ## Build Setup
 

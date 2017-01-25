@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 
+import VueJsonp from 'vue-jsonp'
+Vue.use(VueJsonp)
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
